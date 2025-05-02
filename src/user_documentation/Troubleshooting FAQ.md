@@ -1,3 +1,7 @@
+I am a beginner in modding (first time in fact). I found an error and solved it via reddit, would like to share it as your work is very well ordered and clean. 
+Issue: Creation kit .exe and .ini not being able to be downloaded
+Solution: https://www.reddit.com/r/wabbajack/comments/1h0le76/creation_kitexeini_and_scripts_data_are_missing/
+I am very sorry im unable to explain the specifics, but it definetly works. Thank you for your time
 # Troubleshooting FAQ
 
 This page is and will always be in development and update over time.
